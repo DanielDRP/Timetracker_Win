@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Timetracker (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Timetracker (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
